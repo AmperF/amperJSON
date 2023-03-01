@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Florabelle Amper",
+      "age": 22,
+      "quotes": "God is my everything."
+    },
+    {
+      "name": "David Jake Baquirel",
+      "age": 24,
+      "quotes": "Never give up always trust your heart."
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section A",
+      "sectioncode": "T221",
+      "buksuemail": "1901102571@student.buksu.edu.ph"
+    },
+    {
+      "classsection": "Section B",
+      "sectioncode": "T222",
+      "buksuemail": "davidjake@student.buksu.edu.ph"
+    }
+  ]
+}
